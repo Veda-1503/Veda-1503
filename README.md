@@ -7,15 +7,15 @@
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Veda-1503&style=for-the-badge&color=c77dff&labelColor=2d1b4e&label=profile+views" />
 &nbsp;
-<a href="https://github.com/Veda-1503"><img src="https://img.shields.io/github/followers/Veda-1503?style=for-the-badge&color=c77dff&labelColor=2d1b4e&label=followers" /></a>
-&nbsp;
 <a href="https://linkedin.com/in/veda003"><img src="https://img.shields.io/badge/LinkedIn-2d1b4e?style=for-the-badge&logo=linkedin&logoColor=c77dff" /></a>
+&nbsp;
+<a href="https://instagram.com/vedaa__oo"><img src="https://img.shields.io/badge/Instagram-2d1b4e?style=for-the-badge&logo=instagram&logoColor=ff9ecd" /></a>
 </div>
 
 ---
 
 <div align="center">
-<h3>🛠️ Tech</h3>
+<h3>🛠️ tech</h3>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,spacy&theme=dark&perline=5" /></a>
 <br/>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,flask,git,azure,mongodb&theme=dark&perline=5" /></a>
@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-<h3>🌷 A little about me</h3>
+<h3>🌷 a little about me</h3>
 
 | | |
 |---|---|
@@ -37,14 +37,14 @@
 ---
 
 <div align="center">
-<h3>🏆 Trophies</h3>
+<h3>🏆 trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Veda-1503&theme=tokyonight&no-frame=true&column=3&margin-w=12&margin-h=12&row=2"/>
 </div>
 
 ---
 
 <div align="center">
-<h3>Stats</h3>
+<h3>📊 stats</h3>
 <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Veda-1503&theme=tokyonight"/>
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Veda-1503&theme=tokyonight"/>
@@ -59,10 +59,10 @@
 ---
 
 <div align="center">
-<h3>Currently rotating between Naps and Notes 🎵</h3>
+<h3>currently rotating between naps and notes 🎵</h3>
 <img src="https://media1.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.gif" width="200"/>
 <br/><br/>
-<sub><i>I code to survive. I sing because i actually want to. 🎙️</i></sub>
+<sub><i>i code to survive. i sing because i actually want to. 🎙️</i></sub>
 </div>
 
 ---
@@ -71,6 +71,8 @@
 <a href="https://github.com/Veda-1503"><img src="https://img.shields.io/badge/GitHub-2d1b4e?style=for-the-badge&logo=github&logoColor=e0aaff" /></a>
 &nbsp;
 <a href="mailto:vedeshwarinakate075@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d1b4e?style=for-the-badge&logo=gmail&logoColor=ff9ecd" /></a>
+&nbsp;
+<a href="https://instagram.com/vedaa__oo"><img src="https://img.shields.io/badge/Instagram-2d1b4e?style=for-the-badge&logo=instagram&logoColor=ff9ecd" /></a>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b72cf,50:c77dff,100:ff9ecd&height=120&section=footer" width="100%"/>
 </div>
