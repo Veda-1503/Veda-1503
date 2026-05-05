@@ -44,7 +44,7 @@
 ---
 
 <div align="center">
-<h3>📊 stats</h3>
+<h3>Stats</h3>
 <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Veda-1503&theme=tokyonight"/>
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Veda-1503&theme=tokyonight"/>
